@@ -1,0 +1,3 @@
+Java Application in Hospital Management System
+
+I developed a Hospital Management System using Java, SQL, and a simple UI, implementing core functionalities like CRUD (Create, Read, Update, Delete) operations for managing patients, doctors, appointments, and billing. I used JDBC for database connectivity, ensuring seamless interaction with MySQL. The UI was built using Java Swing, providing an intuitive interface. The system improved hospital workflow by automating patient records, reducing manual errors, and ensuring quick access to information. Proper exception handling and validation were implemented for data integrity. The project showcased Java’s versatility in building real-world applications with structured data handling and efficient execution.
