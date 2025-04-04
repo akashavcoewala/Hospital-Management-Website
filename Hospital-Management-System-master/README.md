@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive Hospital Management System developed using Java Swing for the user interface and MySQL for data management. This application facilitates the management of hospital operations, focusing on the CRUD operations for patients and doctors. It also includes an admin login system for secure access and a logout feature to return to the login page.
+This is a Hospital Management System developed using Java Swing for the user interface and MySQL for data management. This application facilitates the management of hospital operations, focusing on the CRUD operations for patients and doctors. It also includes an admin login system for secure access and a logout feature to return to the login page.
 
 ## Features
 
